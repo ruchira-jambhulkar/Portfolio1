@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Ruchira Jambhulkar</title>
+    <link>https://ruchira-jambhulkar.github.io/Portfolio1/post/</link>
+    <description>Recent content in Projects on Ruchira Jambhulkar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ruchira-jambhulkar.github.io/Portfolio1/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Building Big Data Pipeline with PySpark, MongoDB, Bokeh</title>
+      <link>https://ruchira-jambhulkar.github.io/Portfolio1/post/project-9/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruchira-jambhulkar.github.io/Portfolio1/post/project-9/</guid>
+      <description>Predicted earthquakes one year in advance using training data which is past earthquakes ranging from the year 1965 up until the year 2016. Built Intelligent ELTP Data Pipeline using big data technology Apache Spark and MongoDB, Performed data processing using PySpark. Carried predictive modeling on geospatial data using PySpark MLlib machine learning library &amp;amp; data analysis using MongoDB &amp;amp; Bokeh. Created a geo map, dashboard, bar chart for displaying the earthquake data, also created a lightweight server that will serve the dashboard.</description>
+    </item>
+    
+    <item>
+      <title>Retail Sales Prediction Using AWS SageMaker XGBoost (Regression)</title>
+      <link>https://ruchira-jambhulkar.github.io/Portfolio1/post/project-8/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruchira-jambhulkar.github.io/Portfolio1/post/project-8/</guid>
+      <description>Description:
+The objective of this project is to forecast weekly retail store sales based on historical data.
+Dataset:
+The data consists of three sheets:
+ Stores Features Sales  The data contains holidays and promotional markdowns offered by various stores and several departments throughout the year.
+Merge Dataset into one dataframe:
+-The three dataframes are merged to form a single dataframe. -The newly created dataframe contains following fields:
+Store Dept Date Weekly_Sales IsHoliday Temperature Fuel_Price MarkDown1 MarkDown2 MarkDown3 MarkDown4 MarkDown5 CPI Unemployment Type Size month   The NaN values are replaced with zeros.</description>
+    </item>
+    
+    <item>
+      <title>Data Analysis and Visualization of COVID 19 data using Power BI</title>
+      <link>https://ruchira-jambhulkar.github.io/Portfolio1/post/project-7/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruchira-jambhulkar.github.io/Portfolio1/post/project-7/</guid>
+      <description>Extracted the real-time COVID19 data from the website. Analyzed and transformed data using Power BI Query Editor. Used slicer to visualize the countries. Visualized Total Cases, Active Cases, Total Recovered, Total Deaths, Critical Cases using Cards. Added Donut chart to show the percentage of Active cases, Total deaths, Total recovered cases. Used Column chart to show the top 5 countries by active cases. Used Bar chart to show country wise Total cases, Active cases, New cases, and Serious or Critical cases.</description>
+    </item>
+    
+    <item>
+      <title>Data Analysis and Visualization of Google Play Store Apps data using Tableau</title>
+      <link>https://ruchira-jambhulkar.github.io/Portfolio1/post/project-6/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruchira-jambhulkar.github.io/Portfolio1/post/project-6/</guid>
+      <description>Analyzed Google Play Store apps data and created an interactive dashboard using Tableau to understand what type of apps are being used by the users.
+ Analyzed, cleaned, and transformed data (changed the data type of the Rating column from default string data type to the whole number, Imputed the missing Rating value by using a calculated field). Built a dashboard that shows content ratings by reviews using Treemap, top 10 applications by ratings by using the chart, top 10 applications by price by using the chart, top 10 free applications by installs by using the chart.</description>
+    </item>
+    
+    <item>
+      <title>A Comparative Study of Machine Learning and Deep Learning approaches for Diabetes Prediction.</title>
+      <link>https://ruchira-jambhulkar.github.io/Portfolio1/post/project-2/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruchira-jambhulkar.github.io/Portfolio1/post/project-2/</guid>
+      <description>To diagnose a patient with diabetes, doctors check the sugar concentration in the blood by taking the patient&amp;rsquo;s blood sample. This is a very time-consuming process. Apart from sugar concentration, several other factors affect the blood glucose level. These factors too taken under consideration while prediction. Diabetes Mellitus is a long-lasting disease, and there is no quick fix for it. Hence, it is necessary to predict diabetes at an early stage.</description>
+    </item>
+    
+    <item>
+      <title>Image Classification with MNIST dataset using CNN</title>
+      <link>https://ruchira-jambhulkar.github.io/Portfolio1/post/project-5/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruchira-jambhulkar.github.io/Portfolio1/post/project-5/</guid>
+      <description>The CNN model is developed to classify the images in the MNIST dataset that includes 60,000 training images and 10,000 testing images. The TensorFlow and Kears API allow easy import of MNIST data.
+ Reshaped and normalized the images to a 4-dimensional NumPy array as required by Keras API. Developed a CNN model by using high-level Keras API with TensorFlow at the backend. The sequential model is created by adding layers Conv2D, MaxPooling, Flatten, Dense, Dropout.</description>
+    </item>
+    
+    <item>
+      <title>Sentiment Analysis on IMDB movie review dataset using NLP and LSTM</title>
+      <link>https://ruchira-jambhulkar.github.io/Portfolio1/post/project-4/</link>
+      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruchira-jambhulkar.github.io/Portfolio1/post/project-4/</guid>
+      <description>A classifier was built for movie reviews in the IMDB dataset. The Recurrent Neural Network, in particular LSTM, is used to perform sentiment analysis in Keras.
+ The IMDB dataset contains 25,000 positive and 25,000 negative reviews. So, the dataset is completely balanced. Conducted sentiment analysis by using NLP techniques like removing HTML contents, special characters, punctuations, stop words, lemmatization, and vectorization. Parsed the HTML contents using the BeautifulSoup python package.</description>
+    </item>
+    
+    <item>
+      <title>Data Analysis and Visualization of 2020 Irish election results using R</title>
+      <link>https://ruchira-jambhulkar.github.io/Portfolio1/post/project-3/</link>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruchira-jambhulkar.github.io/Portfolio1/post/project-3/</guid>
+      <description>The visualizations are created to show the vote per party in each election, the change in vote per party from 2016-2020, A comparison to the national average for party share of the vote, The change in the vote for the most significant candidates in both elections. The datasets used are in different formats, as they were obtained from different sources.
+  Used the dplyr package functions for data manipulation that includes filling of empty result values, filtering the data, combining the columns, removing the unwanted columns, renaming the columns, inserting the columns.</description>
+    </item>
+    
+    <item>
+      <title>Prediction of closing price of NIFTY in the Indian Financial Stock Market.</title>
+      <link>https://ruchira-jambhulkar.github.io/Portfolio1/post/project-1/</link>
+      <pubDate>Mon, 05 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruchira-jambhulkar.github.io/Portfolio1/post/project-1/</guid>
+      <description>A model developed to approximately predict the closing price of NIFTY by applying a data mining approach and investigate and identify the most influential factors of Indian Financial Stock Market prices.
+The main objective of this model is to help investors plan their future investment opportunities well. The supervised classification algorithm is used to analyze market closing prices. Then the model is created based on sentiment analysis.
+ Computed the past and present data by stream processing RSS feeds of various news websites for analysis and conserved using NoSQL.</description>
+    </item>
+    
+  </channel>
+</rss>
